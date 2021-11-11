@@ -24,4 +24,4 @@
 대회 전 충분한 성능의 개인 서버 또는 개인 컴퓨터 확보가 필요
 
 (추가코드 / 데이터)
-https://drive.google.com/drive/folders/1J4xwXW5si1pzNm5yaw8apaQws9lVNBiE?usp=sharing
+https://colab.research.google.com/drive/11YjARm4DkwAt5DfUaTeRkqVZZzUqfqKL?usp=sharing, https://drive.google.com/file/d/1Jpu5khn9RG0NG-xaTMTjlzfaGi6UMYBE/view?usp=sharing, https://drive.google.com/drive/folders/1Jq3LbxO4EXmEupNF1QKanluYKxfGRZY5?usp=sharing, https://drive.google.com/drive/folders/1cmlf97jNMl0BSF4d81z3xE-xgfmy6DXe?usp=sharing, https://colab.research.google.com/drive/1fLcHtdeNreI6Ur33rEw6foiqHhGuZeg_?usp=sharing
